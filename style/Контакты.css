@@ -29,6 +29,16 @@ html {
   margin: 0;
 }
 
+.box-content {
+  /* background-color: #556934; */
+  width: 250px;
+  height: 250px;
+  margin: 0 auto;
+  padding: 0;
+  top: 50px;
+  position: relative;
+}
+
 .contakt {
   width: 50px;
   height: 50px;
@@ -180,12 +190,13 @@ ul li a:hover {
   color: #a58d73;
 }
 .box1 {
-  text-align: center;
   width: 1905px;
   height: 200px;
-  background-color: #bcd78e;
+  background-color: #5e8322;
   margin: 0 auto;
   padding: 0;
+  top: 100px;
+  position: relative;
 }
 
 .Каталог_title {
