@@ -1,0 +1,213 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  margin: 0;
+  padding: 0;
+}
+
+.topnav {
+  background-color: #5e8322;
+  overflow: hidden;
+  border: 2px solid #5e8322;
+  box-shadow: #96c44c 5px 3px 30px;
+  height: 50px;
+  position: absolute;
+  width: 100%;
+  border-right: none;
+}
+
+.button_nav {
+  height: 80px;
+}
+
+.nav_list {
+  position: absolute;
+  padding: 0 auto;
+  margin: 0;
+}
+
+.box_content {
+  /* background-color: #556934; */
+  width: 350px;
+  height: 250px;
+  margin: 0 auto;
+  padding: 0;
+  top: 50px;
+  position: relative;
+}
+
+.contakt {
+  width: 50px;
+  height: 50px;
+}
+
+.div-contakt {
+  /* background-color: #556934; */
+  width: 220px;
+  height: 150px;
+  position: relative;
+  left: 1650px;
+  top: 30px;
+}
+
+.header {
+  text-align: center;
+  width: 1905px;
+  height: 378px;
+  background-color: #bcd78e;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.text_heder {
+  width: 1885px;
+  height: 115px;
+  position: absolute;
+  left: 55px;
+  top: 300px;
+  margin: -50px;
+  /* background-color:#96c44c; */
+  /* border: 3px solid #96c44c; */
+  /* border-radius:  15px;  */
+}
+
+.heder_text {
+  color: #556934;
+  margin: 2px;
+  top: 10px;
+}
+
+/*Картинка logo*/
+.logo {
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  left: 50px;
+  top: 50px;
+  margin-right: -20px;
+}
+
+.viking {
+  width: 300px;
+  height: 330px;
+  position: absolute;
+  left: 1550px;
+  top: 20px;
+  margin-right: -20px;
+}
+
+.content {
+  width: 1500px;
+  text-align: center;
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  color: rgb(177, 235, 90);
+  text-shadow: #010101 1px 1px 1px;
+}
+
+/* .toy_soldiers {
+  width: 1000px;
+  height: 300px;
+  position: absolute;
+  right: 300px;
+  top: 85px;
+} */
+.LOGO_title {
+  width: 700px;
+  height: 300px;
+  position: absolute;
+  left: 70px;
+  top: 90px;
+  color: #556934;
+}
+
+.LOGO_title2 {
+  width: 700px;
+  height: 300px;
+  position: absolute;
+  left: 70px;
+  top: 65px;
+  color: #556934;
+}
+
+ul li {
+  float: left;
+  list-style-type: none;
+}
+
+a {
+  color: #ffd700;
+  padding: 0 30px;
+  text-decoration: none;
+  display: block;
+  height: 100%;
+  text-transform: uppercase;
+  line-height: 50px;
+
+  /* top: 5px; */
+}
+
+ul li a:hover {
+  background: #96c44c;
+}
+
+.block1 {
+  width: 196px;
+  margin: 105px 55px;
+  display: inline-block;
+}
+.toy {
+  width: 195px;
+  height: 195px;
+  position: relative;
+}
+
+.button {
+  border: 0;
+  box-shadow: #5e8322 1px 1px 10px;
+}
+.button:hover {
+  opacity: 0.7;
+}
+
+.blocks {
+  text-align: center;
+  width: 1905px;
+  height: 378px;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.new_title {
+  position: relative;
+  top: 100px;
+  text-align: center;
+  color: #a58d73;
+}
+.box1 {
+  width: 1905px;
+  height: 200px;
+  background-color: #5e8322;
+  margin: 0 auto;
+  padding: 0;
+  top: 100px;
+  position: relative;
+}
+
+.Каталог_title {
+  position: relative;
+  top: 15px;
+  text-align: center;
+  color: #a58d73;
+}
+
+.solder_toys {
+  display: block;
+  margin: auto;
+  width: 300px;
+}
